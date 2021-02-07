@@ -1,7 +1,7 @@
 Progress bar for bash scripting.
 
-While a process starts on background the function been called 
-monitors the latest created process untill it finished.
+While a process starts on background function must be called 
+which monitors the latest created process untill it finished.
 
 How to use
 Call the function with arg ie 1, speed to display. 
